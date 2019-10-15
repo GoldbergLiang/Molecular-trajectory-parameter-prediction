@@ -1,1 +1,1 @@
-# ECG-Heartbeat-Classification
+# Molecular trajectory parameter prediction
